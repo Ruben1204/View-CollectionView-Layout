@@ -1,0 +1,215 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ControlesTipoVista
+build_property.ProjectDir = F:\Tuturiales MAUI\ControlesTipoVista\
+
+[F:/Tuturiales MAUI/ControlesTipoVista/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/ActivityIndicator-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.ActivityIndicator-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ActivityIndicator-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ActivityIndicator-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Borde_Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Borde_Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Borde_Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Borde_Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Button-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Button-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Button-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Button-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Caja-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Caja-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Caja-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Caja-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/CarouselView-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.CarouselView-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CarouselView-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CarouselView-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/CheckBox-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.CheckBox-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CheckBox-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CheckBox-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/CollectionView-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.CollectionView-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CollectionView-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CollectionView-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/DatePicker-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.DatePicker-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DatePicker-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DatePicker-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Editor-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Editor-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Editor-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Editor-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Entry-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Entry-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Entry-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Entry-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Frame-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Frame-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Frame-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Frame-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Graficos-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Graficos-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Graficos-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Graficos-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Image-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Image-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Image-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Image-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/ImageButton-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.ImageButton-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ImageButton-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ImageButton-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Label-Etiqueta.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Label-Etiqueta.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Label-Etiqueta.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Label-Etiqueta.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Lista-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Lista-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Lista-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Lista-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Map-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Map-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Map-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Map-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Picker-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Picker-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Picker-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Picker-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/ProgressBar-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.ProgressBar-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProgressBar-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProgressBar-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/RadioButton-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.RadioButton-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RadioButton-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RadioButton-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Refresh-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Refresh-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Refresh-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Refresh-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Scroll-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Scroll-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Scroll-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Scroll-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/SearchBar-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.SearchBar-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SearchBar-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SearchBar-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Slider-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Slider-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Slider-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Slider-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Stepper-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Stepper-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Stepper-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Stepper-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Swipe-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Swipe-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Swipe-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Swipe-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/Switch-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.Switch-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Switch-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Switch-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/TableView-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.TableView-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TableView-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TableView-Vista.xaml
+
+[F:/Tuturiales MAUI/ControlesTipoVista/Views/TimePicker-Vista.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlesTipoVista.Views.TimePicker-Vista.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TimePicker-Vista.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TimePicker-Vista.xaml
